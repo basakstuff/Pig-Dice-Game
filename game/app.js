@@ -13,7 +13,6 @@ var scores, roundScores, activePlayer, dice, gamePlaying;
 
 init();
 
-
 document.querySelector('.btn-roll').addEventListener('click', function () {
     if (gamePlaying) {
         //1. random number
