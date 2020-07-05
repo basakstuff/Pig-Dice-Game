@@ -62,5 +62,5 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
 
     //update the ui
 
-    //check if player won the game
+    //check if player won the Game
 })
